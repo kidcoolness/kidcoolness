@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kidcoolness
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+
 - 💞️ I’m looking to collaborate on ANYTHING
 - 📫 How to reach me DISCORD thedisguisedbear#7713
 
